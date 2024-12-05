@@ -1,4 +1,4 @@
-# PowerBI-HR-employee-attrition
+# PowerBI-HR_Employee_Attrition
 
 The dataset focuses on HR employee attrition with various attributes. Key elements include age, attrition status, business travel details, department, distance from home, education field, gender, hourly rate, job role, marital status, monthly income, overtime, performance rating, and more. The report aims to analyze the data and derive meaningful insights through specific Key Performance Indicators (KPIs) using various visualization charts.
 
